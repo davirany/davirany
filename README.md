@@ -1,7 +1,7 @@
 ## 👋 Hello! Welcome to my Github profile.
-### My name is Davi Ranieri and my nickname is "davirany"!
-## I'm an Electronic Engineering Student at UnB (Universidade de Brasília).
-## I'm 20 years old and passionate about learning
+## My name is Davi Ranieri and my nickname is "davirany"!
+### I'm an Electronic Engineering Student at UnB (Universidade de Brasília).
+### I'm 20 years old and passionate about learning
 
 - I’m currently learning React.js and React-Native
 - I’m looking to collaborate on Projects where i can be tested and challenged
@@ -9,15 +9,6 @@
 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
 
 ### Contacts
   <a href = "mailto:contato@davirany@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
