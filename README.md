@@ -3,7 +3,7 @@
 ### I'm an Electronic Engineering Student at UnB (Universidade de Brasília).
 ### I'm 20 years old and passionate about learning
 
-- My specialties are React-Redux and React Native
+- My specialties are React-Redux and Java
 - I’m looking to collaborate on Projects where i can be tested and challenged
 - Some techs that I've studied: 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" width="40"/> 
