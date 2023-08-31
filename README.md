@@ -1,7 +1,7 @@
 # What's Up! Welcome to my Github profile.
 ## My name is Davi Ranieri and my nickname is "davirany"!
-### I'm an Electronic Engineering Student at UnB (Universidade de Brasília).
-### I'm 20 years old and passionate about learning
+### I'm an Software Engineering Student at UnB (Universidade de Brasília).
+### I'm 22 years old and passionate about learning
 
 - My specialties are React-Redux and Java
 - I’m looking to collaborate on Projects where i can be tested and challenged
